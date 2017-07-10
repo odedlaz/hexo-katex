@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hexo-math-katex",
+        "scope": null,
+        "escapedName": "hexo-math-katex",
+        "name": "hexo-math-katex",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/odedlaz/Dev/hexo"
+    ]
+  ],
+  "_from": "hexo-math-katex@latest",
+  "_id": "hexo-math-katex@1.0.1",
+  "_inCache": true,
+  "_location": "/hexo-math-katex",
+  "_nodeVersion": "6.10.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/hexo-math-katex-1.0.1.tgz_1494162066922_0.4513201161753386"
+  },
+  "_npmUser": {
+    "name": "haripo",
+    "email": "ehutoad@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {
+    "match-at": "0.1.0"
+  },
+  "_requested": {
+    "raw": "hexo-math-katex",
+    "scope": null,
+    "escapedName": "hexo-math-katex",
+    "name": "hexo-math-katex",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-math-katex/-/hexo-math-katex-1.0.1.tgz",
+  "_shasum": "238bf2725ccf7ce02f797392eb8d1709e8f32968",
+  "_shrinkwrap": null,
+  "_spec": "hexo-math-katex",
+  "_where": "/home/odedlaz/Dev/hexo",
+  "author": {
+    "name": "Oded Lazar"
+  },
+  "bugs": {
+    "url": "https://github.com/haripo/hexo-math-katex/issues"
+  },
+  "dependencies": {
+    "katex": "^0.7.1"
+  },
+  "description": "Hexo plugin for rendering TeX math by katex, with no extra dependency",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "238bf2725ccf7ce02f797392eb8d1709e8f32968",
+    "tarball": "https://registry.npmjs.org/hexo-math-katex/-/hexo-math-katex-1.0.1.tgz"
+  },
+  "gitHead": "cfce9cd40cb3a326b333380641eceb2954d4fa95",
+  "homepage": "https://github.com/haripo/hexo-math-katex#readme",
+  "keywords": [
+    "hexo",
+    "katex",
+    "math"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Oded Lazar",
+      "email": "odedlaz@gmail.com"
+    }
+  ],
+  "name": "hexo-math-katex",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odedlaz/hexo-math-katex.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
